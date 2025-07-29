@@ -3,6 +3,11 @@ Members Only Portal: Sign In to Your Club Pogo Account
 
 Are you having trouble accessing your Club Pogo games? If you're searching for the right way to perform a **Pogo sign in members only**, you're not alone. Many loyal users want quick access to their favorite games, achievements, and rewards, and that begins by logging into their member account. Whether you're using a PC, tablet, or smartphone, signing into your Pogo account as a member is easier than you think. In this guide, we’ll walk you through the step-by-step process for successful **Pogo sign in members only**, troubleshooting login issues, and using your **Pogo my account sign** settings effectively.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://pogo-desk.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Pogo</a>
+   </div>
 If you’ve ever typed **pogo sign in members only** or **pogo my account sign** into a search engine, this detailed guide is your go-to solution.
 
 Why Club Pogo Membership Requires a Sign In
